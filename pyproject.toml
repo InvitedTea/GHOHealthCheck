@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "curve dashboard"
+name = "GHO dashboard"
 version = "0.1.0"
-authors = ["Your Name <you@example.com>"]
+authors = ["invitedtea@gmail.com"]
 description = ""
 license = "MIT"
 readme = "README.md"
